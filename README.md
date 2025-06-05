@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 ## How to Run
 
-To train the model and save the model, run the following command:
+To train the model and save the model (classifier_model.h5), run the following command:
 
 ```bash
 python classifier.py
