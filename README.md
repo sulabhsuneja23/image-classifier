@@ -35,4 +35,7 @@ python predict.py
 ```
 
 #### Note
+
+`dataset/` includes 100 sample images divided equally into 4 classes `['class1', 'class2', 'class3', 'class4']`
+`testdata/` includes 10 images of different classes.
 Play with the model and try tweaking the values of `epochs` and `batch_size` in classifier.py and observe the `accuracy` and `loss`.
